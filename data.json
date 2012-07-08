@@ -155,18 +155,18 @@
                 "text":"<p>简介.</p>",
                 "asset":
                 {
-                    "media":"",
+                    "media":"images/photo2012_04.png",
                     "credit":"",
                     "caption":""
                 }
             },
             {
                 "startDate":"2011,04,25",
-                "headline":"Lenovo R520 G7服务器测试VMware EXSi 4.1.0 系统",
+                "headline":"Lenovo R520 G7服务器测试VMware ESXi 4.1.0 系统",
                 "text":"<p>简介.</p>",
                 "asset":
                 {
-                    "media":"",
+                    "media":"images/photo2012_03.png",
                     "credit":"Karminski",
                     "caption":""
                 }
@@ -210,7 +210,7 @@
                 "text":"<p>简介.</p>",
                 "asset":
                 {
-                    "media":"",
+                    "media":"images/photo2012_01.png",
                     "credit":"",
                     "caption":""
                 }
@@ -243,7 +243,7 @@
                 "text":"<p>简介.</p>",
                 "asset":
                 {
-                    "media":"",
+                    "media":"images/photo2012_02.png",
                     "credit":"",
                     "caption":""
                 }
@@ -277,7 +277,7 @@
                 "text":"<p>简介.</p>",
                 "asset":
                 {
-                    "media":"",
+                    "media":"images/photo2012_05.png",
                     "credit":"",
                     "caption":""
                 }
@@ -299,7 +299,7 @@
                 "text":"<p>简介.</p>",
                 "asset":
                 {
-                    "media":"",
+                    "media":"images/photo2012_07.png",
                     "credit":"Karminski",
                     "caption":""
                 }
@@ -310,7 +310,7 @@
                 "text":"<p>简介.</p>",
                 "asset":
                 {
-                    "media":"",
+                    "media":"images/photo2012_06.png",
                     "credit":"Karminski, Jason-story",
                     "caption":""
                 }
