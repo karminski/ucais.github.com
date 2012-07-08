@@ -17,6 +17,17 @@
                 "headline":"大学生多媒体课件开发工作室成立"
             },
             {
+                "startDate":"2007,11,30",
+                "headline":"合影",
+                "text":"<p>简介.</p>",
+                "asset":
+                {
+                    "media":"images/photo2007.png",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
                 "startDate":"2009,9,11",
                 "headline":"Karminski加入",
                 "text":"<p>请在此处加入个人简介.</p>",
@@ -33,9 +44,109 @@
                 "text":"<p>请在此处加入个人简介.</p>",
                 "asset":
                 {
-                    "media":"http://1.gravatar.com/avatar/3210503de6b117fd23256ce43f5c74ea?size=100",
+                    "media":"http://1.gravatar.com/avatar/3210503de6b117fd23256ce43f5c74ea?size=500",
                     "credit":"",
                     "caption":""
+                }
+            },
+            {
+                "startDate":"2009,9,28",
+                "headline":"矿井围岩控制与灾害防治",
+                "text":"<p>安全学院下属专题网站</p>",
+                "asset":
+                {
+                    "media":"images/kjwy_karminski.png",
+                    "credit":"Karminski",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"2009,12,13",
+                "headline":"工作室照片",
+                "text":"<p>简介.</p>",
+                "asset":
+                {
+                    "media":"images/photo2009_01.png",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"2009,12,13",
+                "headline":"工作室照片",
+                "text":"<p>简介.</p>",
+                "asset":
+                {
+                    "media":"images/photo2009_02.png",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"2009,12,13",
+                "headline":"工作室合影",
+                "text":"<p>简介.</p>",
+                "asset":
+                {
+                    "media":"images/photo2009_03.png",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"2010,3,17",
+                "headline":"材料表面技术网站",
+                "text":"<p>材料科学与工程学院下属专题网站</p>",
+                "asset":
+                {
+                    "media":"images/clbmjs_karminski.png",
+                    "credit":"Karminski",
+                    "caption":""
+                }
+            },
+
+            {
+                "startDate":"2010,09,20",
+                "headline":"工作室切换到信息楼0110",
+                "text":"<p>此照片拍摄于20110319.</p>",
+                "asset":
+                {
+                    "media":"images/photo2011_02.png",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"2010,09,20",
+                "headline":"工作室切换到信息楼0110",
+                "text":"<p>此照片拍摄于20110319.</p>",
+                "asset":
+                {
+                    "media":"images/photo2011_03.png",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"2010,11,17",
+                "headline":"校长办公室网站",
+                "text":"<p>校机构设置下属网站</p>",
+                "asset":
+                {
+                    "media":"images/xzbgs_karminski.png",
+                    "credit":"Karminski",
+                    "caption":"http://yuanban.usth.net.cn"
+                }
+            },
+            {
+                "startDate":"2011,03,26",
+                "headline":"黑龙江省东部煤电化工程技术研发平台",
+                "text":"<p>校机构设置下属网站</p>",
+                "asset":
+                {
+                    "media":"images/dbmdh_karminski.png",
+                    "credit":"Karminski",
+                    "caption":"http://218.7.13.214:82/"
                 }
             },
 			{
@@ -61,6 +172,17 @@
                 }
             },
             {
+                "startDate":"2011,05,12",
+                "headline":"毛泽东思想与中国特色社会主义体系概论",
+                "text":"<p>马克思主义学院下属专题网站</p>",
+                "asset":
+                {
+                    "media":"images/md3_karminski.png",
+                    "credit":"Karminski",
+                    "caption":"http://222.171.107.122:8082/"
+                }
+            },
+            {
                 "startDate":"2011,05,20",
                 "headline":"首个Nginx代理服务器架构上线",
                 "text":"<p>简介.</p>",
@@ -79,6 +201,39 @@
                 {
                     "media":"",
                     "credit":"Karminski",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"2011,06,01",
+                "headline":"工作室切换至科厦高层0109室",
+                "text":"<p>简介.</p>",
+                "asset":
+                {
+                    "media":"",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"2011,06,12",
+                "headline":"合影",
+                "text":"<p>简介.</p>",
+                "asset":
+                {
+                    "media":"images/photo2011_01.png",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"2011,06,12",
+                "headline":"合影",
+                "text":"<p>简介.</p>",
+                "asset":
+                {
+                    "media":"images/photo2011_04.png",
+                    "credit":"",
                     "caption":""
                 }
             },
